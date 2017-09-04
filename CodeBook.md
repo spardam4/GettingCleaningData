@@ -1,7 +1,9 @@
 # Getting and Cleaning Data - Course Project
 
 Sept 3, 2017 - El Salvador
+
 Autor: Marlon Marcelo Martinez
+
 email: spardam4@gmail.com
 
 # CodeBook 
