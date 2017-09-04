@@ -4,17 +4,17 @@ Sept 3, 2017 - El Salvador
 Autor: Marlon Marcelo Martinez
 
 email: spardam4@gmail.com
----
-#CodeBook 
+
+# CodeBook 
 
 Tidy Dataset of "Human Activity Recognition Using Smartphones Dataset" from UC Irvine Machine Learning Repository. 
 
-##Contents
-*1.Variables
-*2.Data
-*3.Transformations
+## Contents
+* 1.Variables
+* 2.Data
+* 3.Transformations
 
-##1.Variables
+## 1.Variables
 The following list contain the data frames and arrays used to create the dity data set:
 
 * xTrainDF:			a data frame containing the train set (7352 rows of 561 variables)
@@ -34,7 +34,7 @@ The following list contain the data frames and arrays used to create the dity da
 * meltedData:		data frame with features transformed into rows for each measure (679734 rows of 4 variables)
 * tidyData:			aggregated data containing subject, activity and the mean of each variable (180 rows of 68 variables)
 
-##2.Data
+## 2.Data
 The files used in this project are:
 
 * 'features.txt': List of all features.
@@ -46,7 +46,7 @@ The files used in this project are:
 * 'test/y_test.txt': Test labels.
 * 'test/subject_test.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-##3.Transformations
+## 3.Transformations
 The raw data is transformed into Tidy Data using some functions of libraries *read.table* and *reshape2*
 
 * the *cbind()* function combine them to generate a single dataset
