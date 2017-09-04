@@ -1,9 +1,11 @@
 # Getting and Cleaning Data - Course Project
 Sept 3, 2017 - El Salvador
-Autor: Marlon Marcelo Martinez
-email: spardam4@gmail.com
 
-In the file *run_analysis.R* you will find the code for creating a Tidy Dataset of "Human Activity Recognition Using Smartphones Dataset" from UC Irvine Machine Learning Repository.
+Autor: Marlon Marcelo Martinez
+
+email: spardam4@gmail.com
+## About.
+In the file *run_analysis.R* you will find the code for creating a Tidy Dataset of "Human Activity Recognition Using Smartphones Dataset" from UC Irvine Machine Learning Repository.<br/>
 The *CodeBook.md* file contain the description of variables and transformations applied to get the final data.
 
 ## Explanation.
